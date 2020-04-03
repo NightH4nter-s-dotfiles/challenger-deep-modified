@@ -42,22 +42,22 @@ let s:asphalt = { "gui": "#1e1c31", "cterm": "233", "cterm16": "NONE"}
 let s:asphalt_subtle= { "gui": "#100E23", "cterm": "232", "cterm16": "0"}
 let s:dark_asphalt = { "gui": "#565575", "cterm": "236", "cterm16": "8"}
 
-let s:red = { "gui": "#ff8080", "cterm": "204", "cterm16": "1"}
+let s:red = { "gui": "#ed1515", "cterm": "204", "cterm16": "1"}
 let s:dark_red = { "gui": "#ff5458", "cterm": "203", "cterm16": "9"}
 
-let s:green = { "gui": "#95ffa4", "cterm": "120", "cterm16": "2"}
-let s:dark_green = { "gui": "#62d196", "cterm": "119", "cterm16": "10"}
+let s:green = { "gui": "#08d15c", "cterm": "120", "cterm16": "2"}
+let s:dark_green = { "gui": "#1cdc9a", "cterm": "119", "cterm16": "10"}
 
-let s:yellow = { "gui": "#ffe9aa", "cterm": "228", "cterm16": "3"}
-let s:dark_yellow = { "gui": "#ffb378", "cterm": "215", "cterm16": "11"}
+let s:yellow = { "gui": "#f67400", "cterm": "228", "cterm16": "3"}
+let s:dark_yellow = { "gui": "#fdbc4b", "cterm": "215", "cterm16": "11"}
 
-let s:blue = { "gui": "#91ddff", "cterm": "159", "cterm16": "4"}
+let s:blue = { "gui": "#1d99f3", "cterm": "159", "cterm16": "4"}
 let s:dark_blue = { "gui": "#65b2ff", "cterm": "75", "cterm16": "12"}
 
-let s:purple = { "gui": "#c991e1", "cterm": "141", "cterm16": "5"}
-let s:dark_purple = { "gui": "#906cff", "cterm": "135", "cterm16": "13"}
+let s:purple = { "gui": "#c50ed2", "cterm": "141", "cterm16": "5"}
+let s:dark_purple = { "gui": "#8e44ad", "cterm": "135", "cterm16": "13"}
 
-let s:cyan = { "gui": "#aaffe4", "cterm": "122", "cterm16": "6"}
+let s:cyan = { "gui": "#1abc9c", "cterm": "122", "cterm16": "6"}
 let s:dark_cyan = { "gui": "#63f2f1", "cterm": "121", "cterm16": "14"}
 
 let s:clouds = { "gui": "#cbe3e7", "cterm": "253", "cterm16": "7"}
