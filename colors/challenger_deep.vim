@@ -11,7 +11,7 @@ if exists('syntax on')
     syntax reset
 endif
 
-let g:colors_name='challenger_deep'
+let g:colors_name='challenger_deep-modified'
 set background=dark
 
 
