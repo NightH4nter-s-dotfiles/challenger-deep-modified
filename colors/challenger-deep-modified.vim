@@ -1,5 +1,5 @@
 " Vim Color File
-" Name:       challenger_deep.vim
+" Name:       challenger-deep-modified.vim
 " Version:    2.0
 " Maintainer: github.com/MaxSt
 " License:    The MIT License (MIT)
@@ -11,7 +11,7 @@ if exists('syntax on')
     syntax reset
 endif
 
-let g:colors_name='challenger_deep-modified'
+let g:colors_name='challenger-deep-modified'
 set background=dark
 
 
